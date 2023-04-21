@@ -12,6 +12,6 @@ jobs:
       - name: Update gist
         uses: lawijdo201/productive-box@master
         env:
-          GH_TOKEN: ${{ lawijdo201.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 }}
-          GIST_ID: ${{ lawijdo201.76cda1925cda12b066d06969b9a7eb08 }}
+          GH_TOKEN: ${{ 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 }}
+          GIST_ID: ${{ 76cda1925cda12b066d06969b9a7eb08 }}
           TIMEZONE: Asia/Seoul
